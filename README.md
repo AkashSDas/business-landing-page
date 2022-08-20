@@ -1,6 +1,6 @@
 # business-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://business-landing-page-six.vercel.app/)
 
 - ✅ CSS - complete layout, flexbox
 - ✅ Responsiveness (for all devices)
